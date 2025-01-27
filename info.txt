@@ -1,4 +1,8 @@
 hi hello wellcome to my world 
 hello welcome to java home cloud
+<<<<<<< HEAD
 hi hello welcome to kothakota
 hi hello dude jjllllll
+=======
+hi hello welcome to kothakota
+>>>>>>> 17ea5a27d33d2cd176efeb07e76253167233bccd
